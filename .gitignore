@@ -1,0 +1,11 @@
+# C++ compiled files
+*.o
+*.out
+*.exe
+build/
+bin/
+
+# Environment variables
+.env
+expense_tracker
+.DS_Store

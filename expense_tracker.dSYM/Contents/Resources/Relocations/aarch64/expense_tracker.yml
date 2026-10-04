@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/adnayiansamiahmed/oops/expense_tracker'
+relocations:     []
+...
